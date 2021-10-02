@@ -7,5 +7,3 @@
 VisuaSourceCode ~ very good!
 
 깃허브에서 수정
-
-아싸
